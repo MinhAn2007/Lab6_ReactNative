@@ -10,6 +10,7 @@ import {
 import Footer from "./Footer";
 
 const FirstScreen = () => {
+    
   const DATA = [
     {
       id: 1,
